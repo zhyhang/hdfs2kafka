@@ -1,3 +1,9 @@
+# eclipse project file
+.project
+.classpath
+.settings/
+# maven target
+target/
 # Compiled class file
 *.class
 
