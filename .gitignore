@@ -2,8 +2,10 @@
 .project
 .classpath
 .settings/
+
 # maven target
 target/
+
 # Compiled class file
 *.class
 
