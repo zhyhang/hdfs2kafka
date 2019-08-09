@@ -53,7 +53,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.ipinyou.optimus.prebid.FugeBenchmark</mainClass>
+							<mainClass>com.ad.prebid.FugeBenchmark</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
